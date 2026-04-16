@@ -1,2 +1,3 @@
+ok
 Today I started 
 learning git
