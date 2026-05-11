@@ -1,2 +1,3 @@
 I am removing all and adding
 New line is added
+One more is added
